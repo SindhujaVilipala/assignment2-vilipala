@@ -3,4 +3,13 @@
 ###### LB Nagar
 LB Nagar is a ring road where too much vehicles were pass away and there is a hotel **kirthunga** where we can find a **Delicious** food.
 
+---
+
+Way to My favorite food location 
+1. Go to shamshabad
+2. Take a bus
+    1.  Travel from shamshabad to L.B. Nagar
+    8. On the right side of the Bus Station  there is a restaurant called krithunga
+1. There we can go and eat
+
 
