@@ -11,5 +11,13 @@ Way to My favorite food location
     1.  Travel from shamshabad to L.B. Nagar
     8. On the right side of the Bus Station  there is a restaurant called krithunga
 1. There we can go and eat
-
+* Chiken Biryani
+* Veg Biryani
+* Dosa
+    * Masala Dosa
+    * Maggi Dosa
+    * plain Dosa
+* Double ka Meetha
+* Mango Milkshake
+* Haleem
 
