@@ -23,3 +23,13 @@ Way to My favorite food location
 
 [To know more about me](https://github.com/SindhujaVilipala/assignment2-vilipala/blob/main/AboutMe.md)
 
+---
+
+SPORTS
+I would like  to refer the following sports to others are Golf, Cricket, Hockey, Table tennis.
+|  Name      |  Location  | Amount to pay  |
+| ---------- | ---------- | -------------- |
+|  Golf      | Florida    |   $95          |
+| Cricket    | Hyderabad  |   $50          |
+|  Hockey    | Georgeo    |   $25          |
+|Table tennis| Maryville  |   $20          |
