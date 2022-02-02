@@ -44,9 +44,43 @@ I would like  to refer the following sports to others are Golf, Cricket, Hockey,
 ---
 
 # Graphs Spanning
-###### Spanning Tree
+
 > A tree is a connected undirected graph with no cycles. It is a spanning tree of a graph G if it spans G (that is, it includes every vertex of G) and is a subgraph of G (every edge in the tree belongs to G).
 
 Link to Spinning Tree <https://en.wikipedia.org/wiki/Spanning_tree>
+~~~
 
+vector<vector<int>> adj;
 
+vector<int> pruefer_code() {
+    int n = adj.size();
+    set<int> leafs;
+    vector<int> degree(n);
+    vector<bool> killed(n, false);
+    for (int i = 0; i < n; i++) {
+        degree[i] = adj[i].size();
+        if (degree[i] == 1)
+            leafs.insert(i);
+    }
+
+    vector<int> code(n - 2);
+    for (int i = 0; i < n - 2; i++) {
+        int leaf = *leafs.begin();
+        leafs.erase(leafs.begin());
+        killed[leaf] = true;
+
+        int v;
+        for (int u : adj[leaf]) {
+            if (!killed[u])
+                v = u;
+        }
+
+        code[i] = v;
+        if (--degree[v] == 1)
+            leafs.insert(v);
+    }
+
+    return code;
+}
+~~~
+Link to source code <https://cp-algorithms.com/graph/pruefer_code.html>
