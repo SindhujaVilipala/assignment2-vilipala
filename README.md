@@ -33,3 +33,11 @@ I would like  to refer the following sports to others are Golf, Cricket, Hockey,
 | Cricket    | Hyderabad  |   $50          |
 |  Hockey    | Georgeo    |   $25          |
 |Table tennis| Maryville  |   $20          |
+
+---
+
+# Pithy Quote
+> A blank piece of paper is God's way of telling us how hard it to be God.
+Author *Sidney Sheldon*
+> First, find out what your hero wants, then just follow him!
+Author *Ray Bradbury*
