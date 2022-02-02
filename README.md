@@ -38,6 +38,6 @@ I would like  to refer the following sports to others are Golf, Cricket, Hockey,
 
 # Pithy Quote
 > A blank piece of paper is God's way of telling us how hard it to be God.
-Author *Sidney Sheldon*<br>
+Author- *Sidney Sheldon*<br>
 > First, find out what your hero wants, then just follow him!
-Author *Ray Bradbury*
+Author-*Ray Bradbury*
