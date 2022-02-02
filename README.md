@@ -43,11 +43,11 @@ I would like  to refer the following sports to others are Golf, Cricket, Hockey,
 
 ---
 
-# Graphs Spanning/Cycles/Ancestor
+# Graphs Spanning
 ###### Spanning Tree
 A tree is a connected undirected graph with no cycles. It is a spanning tree of a graph G if it spans G (that is, it includes every vertex of G) and is a subgraph of G (every edge in the tree belongs to G).
 
-Link to Spinning Tree: <https://en.wikipedia.org/wiki/Spanning_tree>
+Link to [Spinning Tree]<https://en.wikipedia.org/wiki/Spanning_tree>
 
 ###### Cycle
 In graph theory, a cycle in a graph is a non-empty trail in which only the first and last vertices are equal. A directed cycle in a directed graph is a non-empty directed trail in which only the first and last vertices are equal.
