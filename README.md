@@ -25,7 +25,7 @@ Way to My favorite food location
 
 ---
 
-SPORTS
+# SPORTS
 I would like  to refer the following sports to others are Golf, Cricket, Hockey, Table tennis.
 |  Name      |  Location  | Amount to pay  |
 | ---------- | ---------- | -------------- |
