@@ -5,7 +5,7 @@ LB Nagar is a ring road where too much vehicles were pass away and there is a ho
 
 ---
 
-Way to My favorite food location 
+Way to My favorite food location
 1. Go to shamshabad
 2. Take a bus
     1.  Travel from shamshabad to L.B. Nagar
@@ -21,4 +21,4 @@ Way to My favorite food location
 * Mango Milkshake
 * Haleem
 
-[AboutMe](https://github.com/SindhujaVilipala/assignment2-vilipala/blob/main/AboutMe.md)
+
