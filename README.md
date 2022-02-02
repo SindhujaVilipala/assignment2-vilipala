@@ -21,4 +21,5 @@ Way to My favorite food location
 * Mango Milkshake
 * Haleem
 
+[To know more about me](https://github.com/SindhujaVilipala/assignment2-vilipala/blob/main/AboutMe.md)
 
